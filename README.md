@@ -39,6 +39,9 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | **Pagina estilo "Link na bio"** | [🔗 Ver online](https://luizatimporinifrazao.github.io/eu-pagina/) | HTML / CSS / JS          |
 
 
+![hello.kitty](https://lh3.ggpht.com/_BJo2sJZzI3g/SXjFvKtSlRI/AAAAAAAAB5g/VWsd0p3tNcU/s400/4t.gif)
+
+
 
 ## ![](https://lh5.ggpht.com/_BJo2sJZzI3g/SuyF0wTRNuI/AAAAAAAALZY/XpaPDdMQ_qU/s400/fliperama.gif) Sobre Mim
 
@@ -48,6 +51,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 - 📚 Gosto de aprender sobre **sobre programação e design gráfico**
 - 🚀 Alem do curso de **Desenvolvimento de Sistemas**, estou aprendendo **design gráfico**
 
+![hello.kitty](https://lh3.ggpht.com/_BJo2sJZzI3g/SXjFvKtSlRI/AAAAAAAAB5g/VWsd0p3tNcU/s400/4t.gif)
 ---
 
 ## ![](https://lh6.ggpht.com/_BJo2sJZzI3g/SqfPOi94_cI/AAAAAAAAIak/xGNcNp5qQjM/s400/pc.gif) Como me encontrar
