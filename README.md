@@ -60,5 +60,6 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/timporini_?igsh=MTU3MXB3Zm54dDlwMA==)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/luizatimporinifrazao)
 
+![hello.kitty](https://lh3.ggpht.com/_BJo2sJZzI3g/SXjFvKtSlRI/AAAAAAAAB5g/VWsd0p3tNcU/s400/4t.gif)
 
 ![puca](https://lh6.ggpht.com/_BJo2sJZzI3g/SXR328VOU6I/AAAAAAAABJ8/wOhd8fvD3Ew/s400/181a.gif)
