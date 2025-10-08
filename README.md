@@ -9,21 +9,21 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 🎯 Tecnologias que estou aprendendo
 
-### Front-End
+### ![pu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu2NWjaLXBh9z4cNUByQoRNP0nngVTKiZljifB5Bn4kdUZ_d3kJ5F54BBOryFan4LLiXAmjf6_BA0K_yhUi0Dle_Giqj4X2RPO5apRL22bj-v4lNBqmhVK4XewtLppy8eoQE4yMYINrqY/) Front-End
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### Back-End
+### ![pu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu2NWjaLXBh9z4cNUByQoRNP0nngVTKiZljifB5Bn4kdUZ_d3kJ5F54BBOryFan4LLiXAmjf6_BA0K_yhUi0Dle_Giqj4X2RPO5apRL22bj-v4lNBqmhVK4XewtLppy8eoQE4yMYINrqY/)  Back-End
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Mobile
+### ![pu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu2NWjaLXBh9z4cNUByQoRNP0nngVTKiZljifB5Bn4kdUZ_d3kJ5F54BBOryFan4LLiXAmjf6_BA0K_yhUi0Dle_Giqj4X2RPO5apRL22bj-v4lNBqmhVK4XewtLppy8eoQE4yMYINrqY/) Mobile
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
@@ -32,7 +32,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 ![hello.kitty](https://lh6.ggpht.com/_JX4SILykZEo/S2jEpVVoQyI/AAAAAAAABpY/gNIcCgDET-4/s400/hello-kitty1.gif)
 ---
 
-## ![](https://lh3.ggpht.com/_BJo2sJZzI3g/SdDxtATSPEI/AAAAAAAAEsg/CWom_XtNhJQ/s400/sombrinha15.png)  ![pu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu2NWjaLXBh9z4cNUByQoRNP0nngVTKiZljifB5Bn4kdUZ_d3kJ5F54BBOryFan4LLiXAmjf6_BA0K_yhUi0Dle_Giqj4X2RPO5apRL22bj-v4lNBqmhVK4XewtLppy8eoQE4yMYINrqY/) Meus Projetos
+## ![](https://lh3.ggpht.com/_BJo2sJZzI3g/SdDxtATSPEI/AAAAAAAAEsg/CWom_XtNhJQ/s400/sombrinha15.png)  Meus Projetos
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
