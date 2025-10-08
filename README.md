@@ -1,4 +1,4 @@
-# ![puca.gif](https://lh5.ggpht.com/_BJo2sJZzI3g/SXR3gLcsqMI/AAAAAAAABJM/bPiNSn6q2nE/s400/175a.gif)  👋 Olá! Eu sou Luiza Timporini Frazão!
+# ![puca.gif](https://lh3.ggpht.com/_BJo2sJZzI3g/SXintX0d4sI/AAAAAAAABjs/cS-taV2hJq4/s400/327a.gif)  👋 Olá! Eu sou Luiza Timporini Frazão!
 
 ![gif](https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0057.gif)
 
