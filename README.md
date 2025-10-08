@@ -29,6 +29,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
+![hello.kitty](https://lh5.ggpht.com/_JX4SILykZEo/S2jGVO7UiwI/AAAAAAAABpw/F_rIMAhH35g/s400/hello-kitty.gif)
 ---
 
 ## 🚀 Meus Projetos
