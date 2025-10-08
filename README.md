@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Luiza Timporini Frazão!
+![kitty.gif](https://lh5.ggpht.com/_iaCLYPyXFeQ/Sb6him9MxSI/AAAAAAAAB-8/bjqVEkvKBbw/s400/hellokitty39.png) # 👋 Olá! Eu sou Luiza Timporini Frazão!
 
 ![gif](https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0057.gif)
 
