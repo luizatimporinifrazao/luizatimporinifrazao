@@ -40,7 +40,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 
 
-## ![]() Sobre Mim
+## ![](https://lh5.ggpht.com/_BJo2sJZzI3g/SuyF0wTRNuI/AAAAAAAALZY/XpaPDdMQ_qU/s400/fliperama.gif) Sobre Mim
 
 - 🎓 Atualmente estudo no **SESI**
 - 💻 Estou aprendendo **Java e HTML**
