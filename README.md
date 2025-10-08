@@ -32,7 +32,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 ![hello.kitty](https://lh6.ggpht.com/_JX4SILykZEo/S2jEpVVoQyI/AAAAAAAABpY/gNIcCgDET-4/s400/hello-kitty1.gif)
 ---
 
-## ![pu](https://lh4.ggpht.com/_BJo2sJZzI3g/SXinyN-_zSI/AAAAAAAABj4/UEqKjBF73Oc/s400/328a.gif) Meus Projetos
+## ![pu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu2NWjaLXBh9z4cNUByQoRNP0nngVTKiZljifB5Bn4kdUZ_d3kJ5F54BBOryFan4LLiXAmjf6_BA0K_yhUi0Dle_Giqj4X2RPO5apRL22bj-v4lNBqmhVK4XewtLppy8eoQE4yMYINrqY/) Meus Projetos
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
