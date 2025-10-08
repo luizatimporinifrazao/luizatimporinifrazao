@@ -5,7 +5,7 @@
 
 Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [escreva seu interesse aqui: ex. Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.].
 
----
+![star.gif](https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0194.gif)
 
 ## 🎯 Tecnologias que estou aprendendo
 
