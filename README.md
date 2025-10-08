@@ -5,7 +5,7 @@
 
 Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [escreva seu interesse aqui: ex. Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.].
 
-![star.gif](https://tenor.com/pt-BR/view/strawberry-dividers-spacehey-space-hey-gif-14338313887456582299)
+![star.gif](https://tenor.com/view/strawberry-dividers-spacehey-space-hey-gif-14338313887456582299)
 
 ## 🎯 Tecnologias que estou aprendendo
 
