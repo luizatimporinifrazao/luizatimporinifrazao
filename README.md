@@ -50,7 +50,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ---
 
-## ![](https://www.figma.com/files/team/1514751676485269404/recents-and-sharing?fuid=1514751672737366344) Como me encontrar
+## ![](https://lh6.ggpht.com/_BJo2sJZzI3g/SqfPOi94_cI/AAAAAAAAIak/xGNcNp5qQjM/s400/pc.gif) Como me encontrar
 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/timporini_?igsh=MTU3MXB3Zm54dDlwMA==)  
