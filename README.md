@@ -5,7 +5,7 @@
 
 Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho ineresse em varias areas relacionadas a programação e desigin, devido isso eu gosto bastante de programar front-end. ![robo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8Sh7fky0m43qxNr8W1IAaMaAwKLiD8xrPCTnn75r53bM10NFASNMG3ImTNXSdV8bcDGv9MTxxK19a3Rp9sZBIpYyvcHdKAHkelX1kFMkLPMv4QUmaP67nuzTIClJV5_XsTuqu18t4GS8/)
 
-![star.gif](https://lh6.ggpht.com/_iaCLYPyXFeQ/Sb6hTvdJ3-I/AAAAAAAAB-Y/G0N97rLfLMw/s400/hellokitty36.png)
+
 
 ## 🎯 Tecnologias que estou aprendendo
 
